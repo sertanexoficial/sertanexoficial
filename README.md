@@ -1,6 +1,6 @@
 <picture>
-  <source media="(max-width: 600px)" srcset="assets/banner-mobile.svg?v=slogan-20261025">
-  <img src="assets/banner.svg?v=slogan-20261025" alt="SERTANEX — Muitas possibilidades, uma única conexão." width="100%">
+  <source media="(max-width: 600px)" srcset="assets/banner-digital-mobile.svg">
+  <img src="assets/banner-digital.svg" alt="SERTANEX — Muitas possibilidades, uma única conexão." width="100%">
 </picture>
 
 # SERTANEX | Tecnologia

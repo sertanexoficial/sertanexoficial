@@ -28,9 +28,9 @@ Preserve o símbolo oficial e use sua fonte em alta resolução ao atualizar o a
 
 | Arquivo | Uso |
 | --- | --- |
-| `assets/banner.svg` | Banner principal e alternativa padrão |
-| `assets/banner-mobile.svg` | Composição para telas de até 600 px |
-| `assets/social-preview.svg` | Fonte editável da capa de compartilhamento, com 1280 × 640 px |
+| `assets/banner-digital.svg` | Banner digital principal, com 1200 × 360 px |
+| `assets/banner-digital-mobile.svg` | Banner digital para telas de até 600 px, com 800 × 500 px |
+| `assets/social-preview-digital.svg` | Fonte editável da capa de compartilhamento, com 1280 × 640 px |
 
 Exporte a capa de compartilhamento em PNG com 1280 × 640 px e envie em **Settings → General → Social preview** do repositório institucional. Esse envio é separado dos banners exibidos pelo README.
 

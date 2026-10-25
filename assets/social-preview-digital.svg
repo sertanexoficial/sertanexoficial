@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" role="img" aria-labelledby="title description">
+  <title id="title">SERTANEX — Muitas possibilidades, uma única conexão.</title>
+  <desc id="description">PDV e delivery em desenvolvimento. Contato: contato@sertanex.com.br. Instagram: @sertanexoficial.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#35233F"/><stop offset="0.54" stop-color="#241A2C"/><stop offset="1" stop-color="#201927"/></linearGradient>
+    <radialGradient id="aura"><stop stop-color="#EE603F" stop-opacity="0.2"/><stop offset="0.54" stop-color="#EE603F" stop-opacity="0.055"/><stop offset="1" stop-color="#EE603F" stop-opacity="0"/></radialGradient>
+    <linearGradient id="trace" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FFAA66"/><stop offset="0.47" stop-color="#FF8150"/><stop offset="1" stop-color="#EE603F"/></linearGradient>
+    <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FFF9F2" stop-opacity="0.065"/><stop offset="1" stop-color="#FFF9F2" stop-opacity="0.012"/></linearGradient>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#EE603F" stop-opacity="0.5"/><stop offset="1" stop-color="#FFF9F2" stop-opacity="0.035"/></linearGradient>
+    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="4"/></filter>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#FFF9F2" stroke-opacity="0.035" stroke-width="0.75"/></pattern>
+    <clipPath id="frame"><rect width="1280" height="640" rx="0"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1280" height="640" fill="url(#bg)"/>
+    
+    <rect x="762" y="62" width="458" height="396" rx="22" fill="url(#glass)" stroke="#FFF9F2" stroke-opacity="0.055"/>
+    <rect x="762" y="62" width="458" height="396" fill="url(#grid)"/>
+    <path d="M752 468L844 430H1200M792 480L880 446H1216M870 480L926 446M1020 480L1032 446M1170 480L1138 446" fill="none" stroke="#FF9660" stroke-opacity="0.07"/>
+    <g aria-hidden="true">
+    <circle cx="1020" cy="254" r="245" fill="url(#aura)"/>
+    <path d="M970 254H910L880 224V144H816 M1000 208V134L966 100H916 M1042 208V146H1166 M1070 254H1140L1194 308V368 M1020 304V390L1060 430H1174 M982 289H918L870 352H812" fill="none" stroke="#EE603F" stroke-opacity="0.36" stroke-width="5.2" stroke-linejoin="round" filter="url(#glow)"/>
+    <path d="M970 254H910L880 224V144H816 M1000 208V134L966 100H916 M1042 208V146H1166 M1070 254H1140L1194 308V368 M1020 304V390L1060 430H1174 M982 289H918L870 352H812" fill="none" stroke="url(#trace)" stroke-opacity="0.86" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="1020" cy="254" r="70" fill="none" stroke="#FF9660" stroke-opacity="0.12" stroke-width="1"/>
+    <circle cx="1020" cy="254" r="62" fill="none" stroke="#FFF9F2" stroke-opacity="0.19" stroke-width="1" stroke-dasharray="2 11"/>
+    <circle cx="1020" cy="254" r="50" fill="#261B2C" stroke="#FF9660" stroke-opacity="0.87" stroke-width="1.7"/>
+    <circle cx="1020" cy="254" r="42" fill="url(#glass)" stroke="#FFF9F2" stroke-opacity="0.12"/>
+    <path d="M967 252a53 53 0 0 1 53 -51" fill="none" stroke="#FFF9F2" stroke-opacity="0.9" stroke-width="2.4" stroke-linecap="round"/>
+    <circle cx="1020" cy="254" r="8" fill="#FF9660" fill-opacity="0.45" filter="url(#glow)"/>
+    <circle cx="1020" cy="254" r="5" fill="#FFF9F2"/>
+    <circle cx="1020" cy="254" r="14" fill="none" stroke="#FF9660" stroke-opacity="0.32"/>
+    <g>
+    <rect x="804" y="132" width="24" height="24" rx="5" fill="#FF8150" fill-opacity="0.16" filter="url(#glow)"/>
+    <rect x="805" y="133" width="22" height="22" rx="5" fill="#332332" stroke="#FF9660" stroke-opacity="0.55" stroke-width="1.2"/>
+    <circle cx="816" cy="144" r="3" fill="#FF9660"/>
+  </g>
+<g>
+    <rect x="904" y="88" width="24" height="24" rx="5" fill="#FF8150" fill-opacity="0.16" filter="url(#glow)"/>
+    <rect x="905" y="89" width="22" height="22" rx="5" fill="#332332" stroke="#FF9660" stroke-opacity="0.55" stroke-width="1.2"/>
+    <circle cx="916" cy="100" r="3" fill="#FF9660"/>
+  </g>
+<g>
+    <rect x="1154" y="134" width="24" height="24" rx="5" fill="#FF8150" fill-opacity="0.16" filter="url(#glow)"/>
+    <rect x="1155" y="135" width="22" height="22" rx="5" fill="#332332" stroke="#FFF9F2" stroke-opacity="0.8" stroke-width="1.2"/>
+    <circle cx="1166" cy="146" r="3" fill="#FFF9F2"/>
+  </g>
+<g>
+    <rect x="1182" y="356" width="24" height="24" rx="5" fill="#FF8150" fill-opacity="0.16" filter="url(#glow)"/>
+    <rect x="1183" y="357" width="22" height="22" rx="5" fill="#332332" stroke="#FF9660" stroke-opacity="0.55" stroke-width="1.2"/>
+    <circle cx="1194" cy="368" r="3" fill="#FF9660"/>
+  </g>
+<g>
+    <rect x="1162" y="418" width="24" height="24" rx="5" fill="#FF8150" fill-opacity="0.16" filter="url(#glow)"/>
+    <rect x="1163" y="419" width="22" height="22" rx="5" fill="#332332" stroke="#FF9660" stroke-opacity="0.55" stroke-width="1.2"/>
+    <circle cx="1174" cy="430" r="3" fill="#FF9660"/>
+  </g>
+<g>
+    <rect x="800" y="340" width="24" height="24" rx="5" fill="#FF8150" fill-opacity="0.16" filter="url(#glow)"/>
+    <rect x="801" y="341" width="22" height="22" rx="5" fill="#332332" stroke="#FFF9F2" stroke-opacity="0.8" stroke-width="1.2"/>
+    <circle cx="812" cy="352" r="3" fill="#FFF9F2"/>
+  </g>
+  </g>
+    <rect x="84" y="80" width="72" height="5" rx="2.5" fill="#EE603F"/>
+    <rect x="166" y="80" width="7" height="5" rx="2" fill="#FFAA66" fill-opacity="0.65"/>
+    <text x="77" y="232" fill="#FFF9F2" font-family="Inter, Arial, sans-serif" font-size="100" font-weight="700" letter-spacing="0.6">SERTANEX</text>
+    <text x="84" y="307" fill="#FFF9F2" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="400">Muitas possibilidades, uma única conexão.</text>
+    <rect x="84" y="355" width="449" height="46" rx="23" fill="#EE603F" fill-opacity="0.1" stroke="#EE603F" stroke-opacity="0.26"/>
+    <circle cx="106" cy="378" r="4" fill="#FF9660"/>
+    <text x="123" y="385" fill="#F1B8A8" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="500">PDV e delivery em desenvolvimento</text>
+    <rect x="84" y="484" width="1112" height="1" fill="url(#rule)"/>
+    <text x="84" y="528" fill="#BAACBF" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="500" letter-spacing="2">CONTATO</text>
+    <text x="84" y="568" fill="#FFF9F2" font-family="Inter, Arial, sans-serif" font-size="27" font-weight="500">contato@sertanex.com.br</text>
+    <text x="827" y="528" fill="#BAACBF" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="500" letter-spacing="2">ACOMPANHE</text>
+    <text x="827" y="568" fill="#FFF9F2" font-family="Inter, Arial, sans-serif" font-size="27" font-weight="500">@sertanexoficial</text>
+  
+    <rect x="0.5" y="0.5" width="1279" height="639" rx="0" fill="none" stroke="#FFF9F2" stroke-opacity="0.08"/>
+  </g>
+</svg>
