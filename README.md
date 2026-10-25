@@ -19,6 +19,9 @@ Estamos desenvolvendo soluções de **ponto de venda (PDV) e delivery** para apo
 
 ## Acompanhe e converse com a gente
 
-Acompanhe a evolução do projeto no [Instagram da SERTANEX — @sertanexoficial](https://www.instagram.com/sertanexoficial/).
+Acompanhe a evolução do projeto nos canais oficiais:
+
+- [Instagram da SERTANEX — @sertanexoficial](https://www.instagram.com/sertanexoficial/)
+- [YouTube da SERTANEX — @sertanexoficial](https://www.youtube.com/@sertanexoficial)
 
 Para compartilhar as necessidades do seu negócio ou conversar sobre o projeto, escreva para [contato@sertanex.com.br](mailto:contato@sertanex.com.br).
