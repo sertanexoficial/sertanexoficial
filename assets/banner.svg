@@ -1,40 +1,30 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title description">
   <title id="title">SERTANEX</title>
-  <desc id="description">Tecnologia para vendas, pedidos e gestão. PDV e delivery em desenvolvimento.</desc>
+  <desc id="description">Muitas possibilidades, uma única conexão.</desc>
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#34223E"/>
       <stop offset="0.64" stop-color="#241A2C"/>
       <stop offset="1" stop-color="#2D2034"/>
     </linearGradient>
-    <linearGradient id="coral" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#EE603F"/>
-      <stop offset="1" stop-color="#EE603F" stop-opacity="0"/>
-    </linearGradient>
-    <pattern id="grid" x="0" y="0" width="40" height="40" patternUnits="userSpaceOnUse">
-      <path d="M40 0H0V40" fill="none" stroke="#FFF9F2" stroke-opacity="0.035" stroke-width="1"/>
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M44 0H0V44" fill="none" stroke="#FFF9F2" stroke-opacity="0.035"/>
     </pattern>
     <clipPath id="frame"><rect width="1200" height="300" rx="16"/></clipPath>
   </defs>
   <g clip-path="url(#frame)">
     <rect width="1200" height="300" fill="url(#background)"/>
-    <rect x="760" width="440" height="300" fill="url(#grid)"/>
-    <path d="M820 300L1120 0M920 300L1220 0M1020 300L1320 0" stroke="#FFF9F2" stroke-opacity="0.045" stroke-width="1"/>
-    <circle cx="1124" cy="144" r="142" fill="none" stroke="#EE603F" stroke-opacity="0.11" stroke-width="1"/>
-    <circle cx="1124" cy="144" r="102" fill="none" stroke="#EE603F" stroke-opacity="0.08" stroke-width="1"/>
-    <rect x="65" y="44" width="54" height="4" rx="2" fill="#EE603F"/>
-    <text x="60" y="123" fill="#FFF9F2" font-family="Inter, Arial, sans-serif" font-size="66" font-weight="750" letter-spacing="0.6">SERTANEX</text>
-    <text x="65" y="181" fill="#FFF9F2" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="400">Tecnologia para vendas, pedidos e gestão.</text>
-    <rect x="65" y="215" width="344" height="35" rx="17.5" fill="#EE603F" fill-opacity="0.11" stroke="#EE603F" stroke-opacity="0.22"/>
-    <circle cx="82" cy="232.5" r="3" fill="#EE603F"/>
-    <text x="95" y="238" fill="#F1B8A8" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="500">PDV e delivery em desenvolvimento</text>
-    <path d="M797 84H1027V216H1168" fill="none" stroke="#FFF9F2" stroke-opacity="0.12" stroke-width="1.25"/>
-    <path d="M845 244V145H1143" fill="none" stroke="#EE603F" stroke-opacity="0.24" stroke-width="1.25"/>
-    <rect x="916" y="73" width="22" height="22" rx="5" fill="#392939" stroke="#EE603F" stroke-opacity="0.45"/>
-    <rect x="1016" y="134" width="22" height="22" rx="5" fill="#392939" stroke="#EE603F" stroke-opacity="0.65"/>
-    <rect x="834" y="205" width="22" height="22" rx="5" fill="#392939" stroke="#FFF9F2" stroke-opacity="0.2"/>
-    <circle cx="1143" cy="145" r="3" fill="#EE603F" fill-opacity="0.65"/>
-    <circle cx="1168" cy="216" r="3" fill="#FFF9F2" fill-opacity="0.35"/>
-    <rect x="65" y="280" width="1070" height="1" fill="url(#coral)" opacity="0.28"/>
+    <rect x="800" width="400" height="300" fill="url(#grid)"/>
+    <circle cx="1160" cy="150" r="165" fill="none" stroke="#EE603F" stroke-opacity="0.11"/>
+    <circle cx="1160" cy="150" r="120" fill="none" stroke="#EE603F" stroke-opacity="0.08"/>
+    <path d="M872 76H1045V215H1180M920 252V150H1170" fill="none" stroke="#FFF9F2" stroke-opacity="0.12" stroke-width="1.25"/>
+    <path d="M920 252V150H1170" fill="none" stroke="#EE603F" stroke-opacity="0.24" stroke-width="1.25"/>
+    <rect x="1034" y="139" width="22" height="22" rx="5" fill="#392939" stroke="#EE603F" stroke-opacity="0.55"/>
+    <circle cx="872" cy="76" r="3" fill="#EE603F" fill-opacity="0.6"/>
+    <circle cx="1180" cy="215" r="3" fill="#FFF9F2" fill-opacity="0.35"/>
+    <rect x="64" y="48" width="58" height="5" rx="2.5" fill="#EE603F"/>
+    <text x="60" y="150" fill="#FFF9F2" font-family="Inter, Arial, sans-serif" font-size="88" font-weight="700" letter-spacing="0.5">SERTANEX</text>
+    <text x="64" y="216" fill="#FFF9F2" font-family="Inter, Arial, sans-serif" font-size="32" font-weight="400">Muitas possibilidades, uma única conexão.</text>
+    <path d="M64 270H1136" stroke="#FFF9F2" stroke-opacity="0.1"/>
   </g>
 </svg>

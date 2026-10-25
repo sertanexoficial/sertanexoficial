@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="400" viewBox="0 0 800 400" role="img" aria-labelledby="title description">
+  <title id="title">SERTANEX</title>
+  <desc id="description">Muitas possibilidades, uma única conexão.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#34223E"/>
+      <stop offset="0.64" stop-color="#241A2C"/>
+      <stop offset="1" stop-color="#2D2034"/>
+    </linearGradient>
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M44 0H0V44" fill="none" stroke="#FFF9F2" stroke-opacity="0.03"/>
+    </pattern>
+    <clipPath id="frame"><rect width="800" height="400" rx="20"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="800" height="400" fill="url(#background)"/>
+    <rect x="490" width="310" height="400" fill="url(#grid)"/>
+    <circle cx="836" cy="204" r="186" fill="none" stroke="#EE603F" stroke-opacity="0.12"/>
+    <circle cx="836" cy="204" r="132" fill="none" stroke="#EE603F" stroke-opacity="0.08"/>
+    <path d="M716 58V170H788M702 340V274H788" fill="none" stroke="#FFF9F2" stroke-opacity="0.09" stroke-width="1.25"/>
+    <circle cx="716" cy="58" r="3" fill="#EE603F" fill-opacity="0.6"/>
+    <rect x="56" y="48" width="62" height="6" rx="3" fill="#EE603F"/>
+    <text x="50" y="166" fill="#FFF9F2" font-family="Inter, Arial, sans-serif" font-size="108" font-weight="700" letter-spacing="0.2">SERTANEX</text>
+    <text x="56" y="252" fill="#FFF9F2" font-family="Inter, Arial, sans-serif" font-size="44" font-weight="400">Muitas possibilidades,</text>
+    <text x="56" y="310" fill="#FFF9F2" font-family="Inter, Arial, sans-serif" font-size="44" font-weight="400">uma única conexão.</text>
+    <path d="M56 358H744" stroke="#FFF9F2" stroke-opacity="0.1"/>
+  </g>
+</svg>

@@ -1,23 +1,24 @@
-<p align="center">
-  <img src="assets/banner.svg" alt="SERTANEX — Tecnologia para vendas, pedidos e gestão. PDV e delivery em desenvolvimento." width="100%" />
-</p>
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/banner-mobile.svg">
+  <img src="assets/banner.svg" alt="SERTANEX — Muitas possibilidades, uma única conexão." width="100%">
+</picture>
 
-<p align="center">
-  <a href="mailto:contato@sertanex.com.br">Contato</a> ·
-  <a href="https://www.instagram.com/sertanexoficial/">Instagram</a> ·
-  Passagem, PB
-</p>
+# SERTANEX | Tecnologia
 
-## Tecnologia próxima do seu negócio
+**Muitas possibilidades, uma única conexão.**
 
-A **SERTANEX** está desenvolvendo soluções de **PDV e delivery** para conectar vendas, pedidos e gestão à rotina dos negócios.
+Tecnologia para vendas, pedidos e gestão, a partir de **Passagem, Paraíba**.
 
-| Foco | O que orienta nosso desenvolvimento |
-| --- | --- |
-| **Vendas** | Ferramentas para apoiar o registro e a organização das vendas. |
-| **Pedidos** | Fluxos para acompanhar pedidos e a operação de delivery. |
-| **Gestão** | Informações organizadas para apoiar a rotina do negócio. |
+## Em desenvolvimento
+
+Estamos desenvolvendo soluções de **ponto de venda (PDV) e delivery** para apoiar a rotina dos negócios. Nosso trabalho se concentra em três frentes:
+
+- **Vendas:** registro e organização das vendas.
+- **Pedidos:** acompanhamento dos pedidos e da operação de delivery.
+- **Gestão:** informações organizadas para apoiar o dia a dia.
 
 ## Acompanhe e converse com a gente
 
-Acompanhe as novidades da SERTANEX no [Instagram](https://www.instagram.com/sertanexoficial/). Para conversar sobre o projeto, escreva para **[contato@sertanex.com.br](mailto:contato@sertanex.com.br)**.
+Acompanhe a evolução do projeto no [Instagram da SERTANEX — @sertanexoficial](https://www.instagram.com/sertanexoficial/).
+
+Para compartilhar as necessidades do seu negócio ou conversar sobre o projeto, escreva para [contato@sertanex.com.br](mailto:contato@sertanex.com.br).
