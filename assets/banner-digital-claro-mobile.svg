@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500" role="img" aria-labelledby="title description">
+  <title id="title">SERTANEX</title>
+  <desc id="description">Muitas possibilidades, uma única conexão.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FFFFFF"/><stop offset="0.54" stop-color="#FFF9F2"/><stop offset="1" stop-color="#FFF4E8"/></linearGradient>
+    <radialGradient id="aura"><stop stop-color="#EE603F" stop-opacity="0.11"/><stop offset="0.54" stop-color="#EE603F" stop-opacity="0.035"/><stop offset="1" stop-color="#EE603F" stop-opacity="0"/></radialGradient>
+    <linearGradient id="trace" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F2A12C"/><stop offset="0.47" stop-color="#EE603F"/><stop offset="1" stop-color="#EE603F"/></linearGradient>
+    <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FFFFFF" stop-opacity="0.85"/><stop offset="1" stop-color="#FFF9F2" stop-opacity="0.6"/></linearGradient>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#EE603F" stop-opacity="0.5"/><stop offset="1" stop-color="#B74420" stop-opacity="0.035"/></linearGradient>
+    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="4"/></filter>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#B74420" stroke-opacity="0.035" stroke-width="0.75"/></pattern>
+    <clipPath id="frame"><rect width="800" height="500" rx="20"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="800" height="500" fill="url(#bg)"/>
+    
+    <path d="M260 498L340 466H780M330 500L394 474M460 500L492 474M590 500L590 474M720 500L688 474" fill="none" stroke="#D85B2A" stroke-opacity="0.075"/>
+    <rect x="302" y="306" width="468" height="176" rx="16" fill="url(#glass)" stroke="#B74420" stroke-opacity="0.045"/>
+    <rect x="302" y="306" width="468" height="176" fill="url(#grid)"/>
+    <g aria-hidden="true">
+    <circle cx="586" cy="388" r="145" fill="url(#aura)"/>
+    <path d="M554 388H488L458 358H348 M574 358V328H480 M602 360V328H720 M618 388H696L734 426V458 M586 420V456H654 M564 411H514L474 458H370" fill="none" stroke="#EE603F" stroke-opacity="0.36" stroke-width="5.2" stroke-linejoin="round" filter="url(#glow)"/>
+    <path d="M554 388H488L458 358H348 M574 358V328H480 M602 360V328H720 M618 388H696L734 426V458 M586 420V456H654 M564 411H514L474 458H370" fill="none" stroke="url(#trace)" stroke-opacity="0.86" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="586" cy="388" r="52" fill="none" stroke="#D85B2A" stroke-opacity="0.12" stroke-width="1"/>
+    <circle cx="586" cy="388" r="44" fill="none" stroke="#B74420" stroke-opacity="0.19" stroke-width="1" stroke-dasharray="2 11"/>
+    <circle cx="586" cy="388" r="32" fill="#FFFFFF" stroke="#D85B2A" stroke-opacity="0.87" stroke-width="1.7"/>
+    <circle cx="586" cy="388" r="24" fill="url(#glass)" stroke="#B74420" stroke-opacity="0.12"/>
+    <path d="M551 386a35 35 0 0 1 35 -33" fill="none" stroke="#B74420" stroke-opacity="0.9" stroke-width="2.4" stroke-linecap="round"/>
+    <circle cx="586" cy="388" r="8" fill="#D85B2A" fill-opacity="0.45" filter="url(#glow)"/>
+    <circle cx="586" cy="388" r="5" fill="#B74420"/>
+    <circle cx="586" cy="388" r="14" fill="none" stroke="#D85B2A" stroke-opacity="0.32"/>
+    <g>
+    <rect x="336" y="346" width="24" height="24" rx="5" fill="#EE603F" fill-opacity="0.16" filter="url(#glow)"/>
+    <rect x="337" y="347" width="22" height="22" rx="5" fill="#FFF8EE" stroke="#D85B2A" stroke-opacity="0.55" stroke-width="1.2"/>
+    <circle cx="348" cy="358" r="3" fill="#D85B2A"/>
+  </g>
+<g>
+    <rect x="468" y="316" width="24" height="24" rx="5" fill="#EE603F" fill-opacity="0.16" filter="url(#glow)"/>
+    <rect x="469" y="317" width="22" height="22" rx="5" fill="#FFF8EE" stroke="#D85B2A" stroke-opacity="0.55" stroke-width="1.2"/>
+    <circle cx="480" cy="328" r="3" fill="#D85B2A"/>
+  </g>
+<g>
+    <rect x="708" y="316" width="24" height="24" rx="5" fill="#EE603F" fill-opacity="0.16" filter="url(#glow)"/>
+    <rect x="709" y="317" width="22" height="22" rx="5" fill="#FFF8EE" stroke="#B74420" stroke-opacity="0.8" stroke-width="1.2"/>
+    <circle cx="720" cy="328" r="3" fill="#B74420"/>
+  </g>
+<g>
+    <rect x="722" y="446" width="24" height="24" rx="5" fill="#EE603F" fill-opacity="0.16" filter="url(#glow)"/>
+    <rect x="723" y="447" width="22" height="22" rx="5" fill="#FFF8EE" stroke="#D85B2A" stroke-opacity="0.55" stroke-width="1.2"/>
+    <circle cx="734" cy="458" r="3" fill="#D85B2A"/>
+  </g>
+<g>
+    <rect x="642" y="444" width="24" height="24" rx="5" fill="#EE603F" fill-opacity="0.16" filter="url(#glow)"/>
+    <rect x="643" y="445" width="22" height="22" rx="5" fill="#FFF8EE" stroke="#D85B2A" stroke-opacity="0.55" stroke-width="1.2"/>
+    <circle cx="654" cy="456" r="3" fill="#D85B2A"/>
+  </g>
+<g>
+    <rect x="358" y="446" width="24" height="24" rx="5" fill="#EE603F" fill-opacity="0.16" filter="url(#glow)"/>
+    <rect x="359" y="447" width="22" height="22" rx="5" fill="#FFF8EE" stroke="#B74420" stroke-opacity="0.8" stroke-width="1.2"/>
+    <circle cx="370" cy="458" r="3" fill="#B74420"/>
+  </g>
+  </g>
+    <rect x="56" y="42" width="62" height="6" rx="3" fill="#EE603F"/>
+    <rect x="128" y="42" width="7" height="6" rx="2" fill="#F2A12C" fill-opacity="0.65"/>
+    <text x="50" y="154" fill="#B74420" font-family="Inter, Arial, sans-serif" font-size="108" font-weight="700" letter-spacing="0.2">SERTANEX</text>
+    <text x="56" y="236" fill="#6D4A3F" font-family="Inter, Arial, sans-serif" font-size="44" font-weight="400">Muitas possibilidades,</text>
+    <text x="56" y="294" fill="#6D4A3F" font-family="Inter, Arial, sans-serif" font-size="44" font-weight="400">uma única conexão.</text>
+    <path d="M56 374H232" stroke="url(#rule)"/>
+    <circle cx="56" cy="395" r="3" fill="#D85B2A"/><circle cx="73" cy="395" r="3" fill="#D85B2A" fill-opacity="0.45"/><circle cx="90" cy="395" r="3" fill="#D85B2A" fill-opacity="0.2"/>
+  
+    <rect x="0.5" y="0.5" width="799" height="499" rx="20" fill="none" stroke="#B74420" stroke-opacity="0.08"/>
+  </g>
+</svg>

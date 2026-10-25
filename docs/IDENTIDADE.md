@@ -17,8 +17,10 @@ Este repositório contém o README do perfil público `sertanexoficial` e seus b
 
 | Elemento | Referência |
 | --- | --- |
-| Fundo principal | Ameixa `#241A2C` |
-| Texto principal | Creme `#FFF9F2` |
+| Fundo principal | Creme `#FFF9F2` |
+| Superfícies claras | Branco `#FFFFFF` |
+| Texto principal | Marrom quente `#6D4A3F` |
+| Marca tipográfica | Coral escuro `#B74420` |
 | Destaques | Coral `#EE603F` |
 | Tipografia das artes | Inter, com alternativas Arial e sans-serif |
 
@@ -28,9 +30,9 @@ Preserve o símbolo oficial e use sua fonte em alta resolução ao atualizar o a
 
 | Arquivo | Uso |
 | --- | --- |
-| `assets/banner-digital.svg` | Banner digital principal, com 1200 × 360 px |
-| `assets/banner-digital-mobile.svg` | Banner digital para telas de até 600 px, com 800 × 500 px |
-| `assets/social-preview-digital.svg` | Fonte editável da capa de compartilhamento, com 1280 × 640 px |
+| `assets/banner-digital-claro.svg` | Banner digital principal, com 1200 × 360 px |
+| `assets/banner-digital-claro-mobile.svg` | Banner digital para telas de até 600 px, com 800 × 500 px |
+| `assets/social-preview-digital-claro.svg` | Fonte editável da capa de compartilhamento, com 1280 × 640 px |
 
 Exporte a capa de compartilhamento em PNG com 1280 × 640 px e envie em **Settings → General → Social preview** do repositório institucional. Esse envio é separado dos banners exibidos pelo README.
 
