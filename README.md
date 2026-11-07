@@ -19,6 +19,7 @@ Demonstrações, pilotos privados e recursos planejados são identificados confo
 
 - [Portal oficial da SERTANEX](https://www.sertanex.com.br/)
 - [Pré-cadastro de interesse](https://www.sertanex.com.br/pre-cadastro/)
+- [Grupo oficial SERTANEX no WhatsApp](https://chat.whatsapp.com/K5OHQDVvv0C5ab2BC2DaRZ)
 - [Instagram da SERTANEX - @sertanexoficial](https://www.instagram.com/sertanexoficial/)
 - [YouTube da SERTANEX - @sertanexoficial](https://www.youtube.com/@sertanexoficial)
 - [Facebook da SERTANEX - Sertanex Tecnologia](https://www.facebook.com/profile.php?id=61595830473615)
