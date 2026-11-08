@@ -24,6 +24,7 @@ Demonstrações, pilotos privados e recursos planejados são identificados confo
 - [YouTube da SERTANEX - @sertanexoficial](https://www.youtube.com/@sertanexoficial)
 - [Facebook da SERTANEX - Sertanex Tecnologia](https://www.facebook.com/profile.php?id=61595830473615)
 - [Threads da SERTANEX - @sertanexoficial](https://www.threads.com/@sertanexoficial)
+- [X da SERTANEX - @sertanexoficial](https://x.com/sertanexoficial)
 
 O pré-cadastro registra uma manifestação de interesse. Ele não ativa serviços, contratação, cobrança ou participação operacional.
 
